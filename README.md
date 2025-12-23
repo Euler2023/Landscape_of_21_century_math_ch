@@ -3,3 +3,8 @@
 这是对Landscape of 21st Century Mathematics Selected Advances, 2001–2020一书的翻译，相关背景请看[(已完结)《21世纪数学概览》翻译全文 - 万物皆数数海拾贝的文章 - 知乎](https://zhuanlan.zhihu.com/p/1985786949055836977)
 
 水平有限，一切以原文为主。欢迎在issue里提出批评建议。
+
+# 日志
+
+2025.12.20 上传
+2025.12.23 根据id为“里奇安”的朋友指出，定理2.14附近的翻译有问题，已经校对，利用pdfpages合并了reference的pdf，后续的更新版本可以看右边的assets?
